@@ -147,7 +147,7 @@ public class BattleLoc extends Location {
 
     }
     public void sneakAwards(){
-        if(this.getMonsters().getName().equals("Sneak")){
+        if(this.getMonsters().getName().equals("Snake")){
             Random drop = new Random();
             int dropItem= drop.nextInt(1000)+1;
             if(dropItem>550){

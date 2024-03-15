@@ -1,6 +1,6 @@
 public class Mine extends BattleLoc{
     //mine
     public Mine(Player player) {
-        super(player,"Mine", new Sneak(),"Loot", 5);
+        super(player,"Mine", new Snake(),"Loot", 5);
     }
 }

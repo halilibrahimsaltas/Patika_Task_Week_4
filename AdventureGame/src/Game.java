@@ -39,7 +39,7 @@ public class Game {
                     break;
                 case 3:
                     System.out.println("Chose an Adventure Area "); // Adventure area
-                    System.out.println("1- Cave\t\t(Monsters: Zombie\t Awards: Food + Coin)\n2- Forest\t(Monsters: Vampire\t Awards: Wood + Coin)\n3- River\t(Monsters: Bear\t\t Awards: Water + Coin)\n4- Mine\t\t(Monsters: Sneak\t Awards: Item + Coin)\n5- Quit");
+                    System.out.println("1- Cave\t\t(Monsters: Zombie\t Awards: Food + Coin)\n2- Forest\t(Monsters: Vampire\t Awards: Wood + Coin)\n3- River\t(Monsters: Bear\t\t Awards: Water + Coin)\n4- Mine\t\t(Monsters: Snake\t Awards: Item + Coin)\n5- Quit");
 
                     int selectBattleLoc = input.nextInt();
                     switch (selectBattleLoc) {

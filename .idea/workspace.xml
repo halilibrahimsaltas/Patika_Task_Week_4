@@ -4,32 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0e9c617-0867-4685-92b8-2914238b5bcc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c0e9c617-0867-4685-92b8-2914238b5bcc" name="Changes" comment="Commits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Armor.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Armor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventureGame/src/BattleLoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/BattleLoc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Cave.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Cave.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Forest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Forest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventureGame/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Knight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventureGame/src/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Mine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Monsters.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Monsters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/NormalLoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/NormalLoc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Ranger.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Ranger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/River.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/River.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/SafeHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/SafeHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Samurai.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Samurai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Sneak.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Sneak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Toolstore.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Toolstore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Zombie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureGame/src/Sneak.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGame/src/Snake.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +79,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710320157433</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commits">
+      <option name="closed" value="true" />
+      <created>1710497048764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497048764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commits" />
   </component>
 </project>
